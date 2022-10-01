@@ -15,5 +15,4 @@
 
 [![Spotify](https://now-playing-pqytlme7u-diabolicwitch.vercel.app/api/spotify)](https://open.spotify.com/user/ewt4ywvzbhdhx4uhrparn3rxt)
 
-![Snake animation](https://github.com/DiabolicWitch/DiabolicWitch/blob/output/github-contribution-grid-snake.svg) 
 
