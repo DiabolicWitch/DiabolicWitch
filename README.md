@@ -9,7 +9,7 @@
 
 <div>
   <a href="https://github.com/DiabolicWitch">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DiabolicWitch&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiabolicWitch&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DiabolicWitch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiabolicWitch&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
