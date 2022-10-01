@@ -6,3 +6,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+
+<div>
+  <a href="https://github.com/DiabolicWitch">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DiabolicWitch&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiabolicWitch&layout=compact&langs_count=7&theme=gotham"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Fer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
