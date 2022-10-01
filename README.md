@@ -1,5 +1,5 @@
 ![Diabolic Witch](https://github.com/DiabolicWitch/DiabolicWitch/blob/main/banner.png)
-<p align="center"><h3>Hello, I'm Marian Vulpes, a trans girl.</h3></p>
+<p align="center">Hello, I'm Marian Vulpes, a trans girl.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marian-vulpes-bordin-912aa6250/">
