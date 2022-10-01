@@ -13,5 +13,5 @@
   <img height="150em" style="float: right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiabolicWitch&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
-[![Spotify](https:/now-playing-pqytlme7u-diabolicwitch.vercel.app/api/spotify)](https://open.spotify.com/user/ewt4ywvzbhdhx4uhrparn3rxt)
+![Spotify](https:/now-playing-pqytlme7u-diabolicwitch.vercel.app/api/spotify)](https://open.spotify.com/user/ewt4ywvzbhdhx4uhrparn3rxt)
 
