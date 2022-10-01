@@ -7,13 +7,12 @@
   </a>
 </p>
 
-<div>
+<div align="center">
   <a href="https://github.com/DiabolicWitch">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=DiabolicWitch&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferbatman&layout=compact&langs_count=7&theme=omni"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DiabolicWitch&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferbatman&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
-<div style="align: center">
-  [![Spotify](https://now-playing-pqytlme7u-diabolicwitch.vercel.app/api/spotify)](https://open.spotify.com/user/ewt4ywvzbhdhx4uhrparn3rxt)
-</div>
+[![Spotify](https://now-playing-pqytlme7u-diabolicwitch.vercel.app/api/spotify)](https://open.spotify.com/user/ewt4ywvzbhdhx4uhrparn3rxt)
+
 
