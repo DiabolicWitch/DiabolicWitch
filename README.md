@@ -9,4 +9,6 @@
 
 [![Spotify](https://now-playing-pqytlme7u-diabolicwitch.vercel.app/api/spotify)](https://open.spotify.com/user/ewt4ywvzbhdhx4uhrparn3rxt)
 
+<p> Atualmente estudando reconhecimento de imagem e fazendo o intensivão de python da Hashtag </p>
+
 
